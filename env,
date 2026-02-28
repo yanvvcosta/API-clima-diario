@@ -1,0 +1,7 @@
+# WeatherAPI
+WEATHER_API_KEY=sua_chave_aqui
+
+# WhatsApp Cloud API
+WHATSAPP_TOKEN=seu_token_de_acesso
+WHATSAPP_PHONE_ID=seu_phone_number_id
+WHATSAPP_TO=5511999999999  # número que receberá as mensagens (formato: 55 + DDD + número)
